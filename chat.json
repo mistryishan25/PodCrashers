@@ -1,44 +1,1250 @@
 {
-    "utterances": [
-        {
-            "speaker": "Speaker A",
-            "start_time": "0:00:00.080000",
-            "text": "Death is defined as the complete and irreversible cessation of brain activity. Sure. If that's the definition of death, a child at 20 to 24 weeks in the womb doesn't have that definition of death. It's not- It doesn't even have the brain activity. But it doesn't have irreversible and it doesn't have a sensation of brain activity that will never come back. It's going to develop its brain activity. It's going to develop. I agree with you. A child has brain activity. It will develop and once it develops."
-        },
-        {
-            "speaker": "Speaker B",
-            "start_time": "0:00:28.720000",
-            "text": "It, I'm going to care a whole lot about it."
-        },
-        {
-            "speaker": "Speaker A",
-            "start_time": "0:00:31.120000",
-            "text": "You see that even your definition of, well, I'm defining it the same way that death is defined, they're not the same. Do you see that? No. You don't see that."
-        },
-        {
-            "speaker": "Speaker B",
-            "start_time": "0:00:28.440000",
-            "text": "What is your definition of a fetus?"
-        },
-        {
-            "speaker": "Speaker A",
-            "start_time": "0:00:30.360000",
-            "text": "Just for this, whatever one helps me win the debate. It's different if someone is dead and all their brain activity has ceased and will not come back versus a child in the womb, an embryo in the womb who has the potential and it actually has the capacity for brain activity in time. Okay. Do you see the difference?"
-        },
-        {
-            "speaker": "Speaker B",
-            "start_time": "0:00:47.640000",
-            "text": "I know there's a difference, but this."
-        },
-        {
-            "speaker": "Speaker A",
-            "start_time": "0:00:49.720000",
-            "text": "Difference is not relevant. Point. Point. Point. Point. Point. Point."
-        },
-        {
-            "speaker": "Speaker B",
-            "start_time": "0:00:56.280000",
-            "text": "Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point. Point."
-        }
-    ]
+  "transcript": [
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/0",
+      "text": "Dream Sequence is a production of iHeart Podcasts, Blumhouse Television, and Realm.",
+      "speaker": "Speaker 1",
+      "startTimecode": 320,
+      "endTimecode": 13560
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/1",
+      "text": "For the record, I think this is stupid.",
+      "speaker": "Speaker 2",
+      "startTimecode": 13760,
+      "endTimecode": 15680
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/2",
+      "text": "What's your plan?",
+      "speaker": "Speaker 3",
+      "startTimecode": 16520,
+      "endTimecode": 17160
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/3",
+      "text": "Then?",
+      "speaker": "Speaker 2",
+      "startTimecode": 17239,
+      "endTimecode": 17400
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/4",
+      "text": "That's what I thought.",
+      "speaker": "Speaker 4",
+      "startTimecode": 19400,
+      "endTimecode": 20120
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/5",
+      "text": "There has to be another way. There isn't going to get yourself killed. It called me out directly. Now I have to reply directly. What do you think? This is a fight at a frat party.",
+      "speaker": "Speaker 2",
+      "startTimecode": 20800,
+      "endTimecode": 31040
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/6",
+      "text": "I need to do this.",
+      "speaker": "Speaker 3",
+      "startTimecode": 31120,
+      "endTimecode": 31880
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/7",
+      "text": "I just got you back.",
+      "speaker": "Speaker 2",
+      "startTimecode": 32280,
+      "endTimecode": 33480
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/8",
+      "text": "I'm not going anywhere.",
+      "speaker": "Speaker 3",
+      "startTimecode": 36760,
+      "endTimecode": 38120
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/9",
+      "text": "What are you even going to do? How can you stop it? I'm going to play it by ear, play it by ear. There's something she's not telling me.",
+      "speaker": "Speaker 2",
+      "startTimecode": 39640,
+      "endTimecode": 50159
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/10",
+      "text": "Isn't that always?",
+      "speaker": "Speaker 4",
+      "startTimecode": 50840,
+      "endTimecode": 51720
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/11",
+      "text": "This time is different.",
+      "speaker": "Speaker 2",
+      "startTimecode": 52000,
+      "endTimecode": 52960
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/12",
+      "text": "She's ready for this, She's been training for years. As long as she has her watch, she'd be okay.",
+      "speaker": "Speaker 4",
+      "startTimecode": 53920,
+      "endTimecode": 59440
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/13",
+      "text": "I don't know. I just feel like something bad is going to happen.",
+      "speaker": "Speaker 2",
+      "startTimecode": 60440,
+      "endTimecode": 62800
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/14",
+      "text": "Why are you talking to me right now?",
+      "speaker": "Speaker 4",
+      "startTimecode": 63960,
+      "endTimecode": 65679
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/15",
+      "text": "Because I want someone to talk her.",
+      "speaker": "Speaker 2",
+      "startTimecode": 66040,
+      "endTimecode": 67399
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/16",
+      "text": "Out of it?",
+      "speaker": "Speaker 3",
+      "startTimecode": 67280,
+      "endTimecode": 67680
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/17",
+      "text": "And do you think that person is me?",
+      "speaker": "Speaker 4",
+      "startTimecode": 68360,
+      "endTimecode": 69880
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/18",
+      "text": "Morgan? I'm not wrong. This is insane, right.",
+      "speaker": "Speaker 2",
+      "startTimecode": 72160,
+      "endTimecode": 75200
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/19",
+      "text": "Insane passes by a long time ago. Now we're just catching up.",
+      "speaker": "Speaker 5",
+      "startTimecode": 75319,
+      "endTimecode": 78600
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/20",
+      "text": "Why does it seem like I'm the only person who cares that my sister is risking her life?",
+      "speaker": "Speaker 2",
+      "startTimecode": 79240,
+      "endTimecode": 83160
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/21",
+      "text": "This is Sadie's decision, not any of ours.",
+      "speaker": "Speaker 5",
+      "startTimecode": 83200,
+      "endTimecode": 85360
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/22",
+      "text": "Yeah, but if you talk to her.",
+      "speaker": "Speaker 2",
+      "startTimecode": 85480,
+      "endTimecode": 86760
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/23",
+      "text": "I've already talked to her, and and I didn't try to talk her out of it. Why not, because I'm a believer. Get your nerves out. We have a long night ahead of us.",
+      "speaker": "Speaker 5",
+      "startTimecode": 86840,
+      "endTimecode": 100760
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/24",
+      "text": "Let me be honest. I don't know why I'm talking to you.",
+      "speaker": "Speaker 2",
+      "startTimecode": 101480,
+      "endTimecode": 104080
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/25",
+      "text": "Maybe you were craving someone sane.",
+      "speaker": "Speaker 6",
+      "startTimecode": 104600,
+      "endTimecode": 106319
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/26",
+      "text": "There has to be some part of you that believes that's maybe even a little frightened.",
+      "speaker": "Speaker 2",
+      "startTimecode": 107440,
+      "endTimecode": 111080
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/27",
+      "text": "I'm definitely frightened.",
+      "speaker": "Speaker 1",
+      "startTimecode": 111240,
+      "endTimecode": 112360
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/28",
+      "text": "But for my career, if you had one, you would be too.",
+      "speaker": "Speaker 6",
+      "startTimecode": 112960,
+      "endTimecode": 115600
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/29",
+      "text": "I take that back.",
+      "speaker": "Speaker 4",
+      "startTimecode": 117040,
+      "endTimecode": 117760
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/30",
+      "text": "Did you just apologize to me?",
+      "speaker": "Speaker 2",
+      "startTimecode": 118200,
+      "endTimecode": 119600
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/31",
+      "text": "Sort of?",
+      "speaker": "Speaker 4",
+      "startTimecode": 120160,
+      "endTimecode": 120480
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/32",
+      "text": "I'll take it.",
+      "speaker": "Speaker 2",
+      "startTimecode": 121040,
+      "endTimecode": 121680
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/33",
+      "text": "You are aware just how bad everything is here?",
+      "speaker": "Speaker 6",
+      "startTimecode": 122880,
+      "endTimecode": 125000
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/34",
+      "text": "Right?",
+      "speaker": "Speaker 7",
+      "startTimecode": 125400,
+      "endTimecode": 125600
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/35",
+      "text": "Yeah, but I'm not sure we're talking about the same thing.",
+      "speaker": "Speaker 2",
+      "startTimecode": 126160,
+      "endTimecode": 129760
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/36",
+      "text": "Morgan didn't tell you.",
+      "speaker": "Speaker 4",
+      "startTimecode": 130400,
+      "endTimecode": 131320
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/37",
+      "text": "Tell me what I guess this is happening. So let's sum it all up. Tell me your name to date, what you're doing tonight.",
+      "speaker": "Speaker 2",
+      "startTimecode": 132560,
+      "endTimecode": 142639
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/38",
+      "text": "My name is Sadiecraft. It is the night of May fifteenth, two days prior to Monifold suicide. Note threat. I'm going to sleep of my own free will. What is the stupid thing to say?",
+      "speaker": "Speaker 3",
+      "startTimecode": 145200,
+      "endTimecode": 154919
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/39",
+      "text": "Just keep going, Say how you're feeling.",
+      "speaker": "Speaker 2",
+      "startTimecode": 155120,
+      "endTimecode": 156640
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/40",
+      "text": "I'm hoping to achieve lucidity and control over my dream environment where I believe a malicious entity resides. I am to find it and kill it. I'm feeling why do you want me to make a statement like I'm this my last will and testament?",
+      "speaker": "Speaker 3",
+      "startTimecode": 157919,
+      "endTimecode": 169960
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/41",
+      "text": "I don't know. I mean it seems like a good idea at the time. Is this the best you can do?",
+      "speaker": "Speaker 2",
+      "startTimecode": 170080,
+      "endTimecode": 174160
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/42",
+      "text": "You're blaming me for your bad idea.",
+      "speaker": "Speaker 3",
+      "startTimecode": 174280,
+      "endTimecode": 176040
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/43",
+      "text": "You're making it look like a bad idea.",
+      "speaker": "Speaker 2",
+      "startTimecode": 176160,
+      "endTimecode": 177720
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/44",
+      "text": "I'm supposed to be asleep in an hour. I don't need this.",
+      "speaker": "Speaker 3",
+      "startTimecode": 177720,
+      "endTimecode": 179680
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/45",
+      "text": "Let me ask some questions instead. Why are you doing this.",
+      "speaker": "Speaker 2",
+      "startTimecode": 180720,
+      "endTimecode": 183200
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/46",
+      "text": "Because Manifold threatened to hurt people in two days? Innocent people, people like our parents. It's possible I'll die tonight. It's possible I'll die in two days. Anyway, might as well strike first?",
+      "speaker": "Speaker 3",
+      "startTimecode": 183440,
+      "endTimecode": 192079
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/47",
+      "text": "Can men of Old be killed?",
+      "speaker": "Speaker 2",
+      "startTimecode": 192600,
+      "endTimecode": 193840
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/48",
+      "text": "I wouldn't be doing this if I didn't think so?",
+      "speaker": "Speaker 3",
+      "startTimecode": 194120,
+      "endTimecode": 195720
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/49",
+      "text": "What would you say to someone who doesn't believe in any of this?",
+      "speaker": "Speaker 2",
+      "startTimecode": 196440,
+      "endTimecode": 198640
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/50",
+      "text": "Don't care?",
+      "speaker": "Speaker 3",
+      "startTimecode": 198840,
+      "endTimecode": 199320
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/51",
+      "text": "Are you scared?",
+      "speaker": "Speaker 2",
+      "startTimecode": 199960,
+      "endTimecode": 200640
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/52",
+      "text": "Not?",
+      "speaker": "Speaker 7",
+      "startTimecode": 200760,
+      "endTimecode": 200880
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/53",
+      "text": "Really?",
+      "speaker": "Speaker 5",
+      "startTimecode": 200960,
+      "endTimecode": 201280
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/54",
+      "text": "Bullshit? When we see your vitals, I bet your heart, people will be like a jackhamra We'll see one other quick question? Did you fake documents and lie to your best friend? All your colleagues and your sister to be able to run this experiment.",
+      "speaker": "Speaker 2",
+      "startTimecode": 201480,
+      "endTimecode": 213160
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/55",
+      "text": "That's only half true.",
+      "speaker": "Speaker 3",
+      "startTimecode": 216080,
+      "endTimecode": 217080
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/56",
+      "text": "Why did you want me here? I mean really, I didn't lie to you about that, just everything else. This lie, this one lie started before I said I'd tell you the truth. It was grandfathered in. I've been truthful ever since.",
+      "speaker": "Speaker 2",
+      "startTimecode": 217680,
+      "endTimecode": 229000
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/57",
+      "text": "Why does it even matter. I'm the only one in trouble. Josie is dead, Sadie, so are seven others. Maybe there's a reason why experiments are vetted. Do not get that? You tell me you've changed, and you do this same shit.",
+      "speaker": "Speaker 2",
+      "startTimecode": 229680,
+      "endTimecode": 240440
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/58",
+      "text": "This is why I didn't want to answer your questions. You're putting me in a bad space for I have the most important night of my life.",
+      "speaker": "Speaker 3",
+      "startTimecode": 240560,
+      "endTimecode": 245360
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/59",
+      "text": "You're right, I shouldn't have asked. You don't even seem that just disappointed about pulling that card on me. It's not you. I'm disappointed and it's me. Okay, what, I love you?",
+      "speaker": "Speaker 2",
+      "startTimecode": 245520,
+      "endTimecode": 259280
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/60",
+      "text": "Good luck tonight. I'm not very popular today, yeah, even less so than usual, even though I'm trying to save all your lives.",
+      "speaker": "Speaker 3",
+      "startTimecode": 262520,
+      "endTimecode": 287599
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/61",
+      "text": "That might mean a little more if you weren't trying to save your own. Two there, move to the right. I need to get this sensor on.",
+      "speaker": "Speaker 5",
+      "startTimecode": 287920,
+      "endTimecode": 294480
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/62",
+      "text": "I want to appolo to you for what everything, Morgan, thanks for putting up with me.",
+      "speaker": "Speaker 3",
+      "startTimecode": 298920,
+      "endTimecode": 308800
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/63",
+      "text": "You're a strange mood.",
+      "speaker": "Speaker 5",
+      "startTimecode": 310279,
+      "endTimecode": 311359
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/64",
+      "text": "It's a strange day. I guess it is. No matter what.",
+      "speaker": "Speaker 3",
+      "startTimecode": 312040,
+      "endTimecode": 317360
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/65",
+      "text": "Don't wake me up if things go south, don't wake me up.",
+      "speaker": "Speaker 3",
+      "startTimecode": 318440,
+      "endTimecode": 322159
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/66",
+      "text": "I am not having another death on my watch.",
+      "speaker": "Speaker 5",
+      "startTimecode": 322839,
+      "endTimecode": 325000
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/67",
+      "text": "The stakes are too high. Promise me, please, okay, I promise, thank you?",
+      "speaker": "Speaker 3",
+      "startTimecode": 325000,
+      "endTimecode": 337480
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/68",
+      "text": "You ready?",
+      "speaker": "Speaker 2",
+      "startTimecode": 337480,
+      "endTimecode": 338719
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/69",
+      "text": "You know how I feel about now?",
+      "speaker": "Speaker 3",
+      "startTimecode": 339120,
+      "endTimecode": 340279
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/70",
+      "text": "How she looking.",
+      "speaker": "Speaker 2",
+      "startTimecode": 349440,
+      "endTimecode": 350479
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/71",
+      "text": "Steady, heartbeat, not nervous whatsoever. Looks like she's not having any is sshes falling asleep. Shit, it's a good thing, I know.",
+      "speaker": "Speaker 5",
+      "startTimecode": 350480,
+      "endTimecode": 358359
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/72",
+      "text": "Just means I'm wrong.",
+      "speaker": "Speaker 2",
+      "startTimecode": 358839,
+      "endTimecode": 359680
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/73",
+      "text": "Delta in coming, turning up dream volume?",
+      "speaker": "Speaker 5",
+      "startTimecode": 362839,
+      "endTimecode": 365600
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/74",
+      "text": "Do you need to leave?",
+      "speaker": "Speaker 4",
+      "startTimecode": 368200,
+      "endTimecode": 368920
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/75",
+      "text": "Only Sadie and I know how to do this. I'm not leaving.",
+      "speaker": "Speaker 5",
+      "startTimecode": 369360,
+      "endTimecode": 372240
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/76",
+      "text": "Do you feel okay?",
+      "speaker": "Speaker 6",
+      "startTimecode": 375000,
+      "endTimecode": 375719
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/77",
+      "text": "Stop?",
+      "speaker": "Speaker 2",
+      "startTimecode": 375760,
+      "endTimecode": 376080
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/78",
+      "text": "Thank you, but stop.",
+      "speaker": "Speaker 5",
+      "startTimecode": 377120,
+      "endTimecode": 378200
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/79",
+      "text": "It's twelve seventeen pm.",
+      "speaker": "Speaker 3",
+      "startTimecode": 388160,
+      "endTimecode": 391440
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/80",
+      "text": "Ain't supposed to talk about time out here. Just enjoy the sea.",
+      "speaker": "Speaker 6",
+      "startTimecode": 391720,
+      "endTimecode": 395400
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/81",
+      "text": "It is pretty. It's four thirty pm. Now what did four hours pass like that without the sun moving?",
+      "speaker": "Speaker 3",
+      "startTimecode": 397240,
+      "endTimecode": 412279
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/82",
+      "text": "I'm going to being out here is not thinking about the time?",
+      "speaker": "Speaker 6",
+      "startTimecode": 412480,
+      "endTimecode": 414960
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/83",
+      "text": "Storm coming?",
+      "speaker": "Speaker 3",
+      "startTimecode": 416480,
+      "endTimecode": 417159
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/84",
+      "text": "Hi, Well, there's beauty in the storm too.",
+      "speaker": "Speaker 6",
+      "startTimecode": 417920,
+      "endTimecode": 423880
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/85",
+      "text": "Why is the water red?",
+      "speaker": "Speaker 3",
+      "startTimecode": 425560,
+      "endTimecode": 426640
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/86",
+      "text": "It's always red? Where we are?",
+      "speaker": "Speaker 6",
+      "startTimecode": 427040,
+      "endTimecode": 428599
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/87",
+      "text": "Where are we?",
+      "speaker": "Speaker 3",
+      "startTimecode": 429520,
+      "endTimecode": 430080
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/88",
+      "text": "You know where we are? Home?",
+      "speaker": "Speaker 6",
+      "startTimecode": 430920,
+      "endTimecode": 433520
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/89",
+      "text": "Home?",
+      "speaker": "Speaker 2",
+      "startTimecode": 435200,
+      "endTimecode": 435480
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/90",
+      "text": "It's two am.",
+      "speaker": "Speaker 3",
+      "startTimecode": 439480,
+      "endTimecode": 440239
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/91",
+      "text": "Take off the watch, be at peace?",
+      "speaker": "Speaker 6",
+      "startTimecode": 440440,
+      "endTimecode": 442800
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/92",
+      "text": "No, shoot yourself, mis see I'm sorry?",
+      "speaker": "Speaker 3",
+      "startTimecode": 444720,
+      "endTimecode": 449840
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/93",
+      "text": "What do you mean?",
+      "speaker": "Speaker 6",
+      "startTimecode": 450680,
+      "endTimecode": 451280
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/94",
+      "text": "Nothing? That makes fifteen for my account?",
+      "speaker": "Speaker 3",
+      "startTimecode": 453680,
+      "endTimecode": 459480
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/95",
+      "text": "Fifteen?",
+      "speaker": "Speaker 6",
+      "startTimecode": 460160,
+      "endTimecode": 460680
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/96",
+      "text": "What dead bodies washed up on the shore? Hey, this one looks like me. I'm asleep, aren't I?",
+      "speaker": "Speaker 3",
+      "startTimecode": 460760,
+      "endTimecode": 473400
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/97",
+      "text": "You are very much awake. You've never been more awake in your life.",
+      "speaker": "Speaker 6",
+      "startTimecode": 474360,
+      "endTimecode": 478640
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/98",
+      "text": "Who are you?",
+      "speaker": "Speaker 3",
+      "startTimecode": 482240,
+      "endTimecode": 484000
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/99",
+      "text": "You know who I am? But it doesn't matter, not right now?",
+      "speaker": "Speaker 6",
+      "startTimecode": 484000,
+      "endTimecode": 488600
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/100",
+      "text": "Why not?",
+      "speaker": "Speaker 2",
+      "startTimecode": 489320,
+      "endTimecode": 489760
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/101",
+      "text": "Because for some reason, deep in the back of your mind, you're thinking about something that's coming to the fore.",
+      "speaker": "Speaker 6",
+      "startTimecode": 490120,
+      "endTimecode": 496280
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/102",
+      "text": "What is it?",
+      "speaker": "Speaker 8",
+      "startTimecode": 496640,
+      "endTimecode": 497240
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/103",
+      "text": "Got it?",
+      "speaker": "Speaker 6",
+      "startTimecode": 498640,
+      "endTimecode": 500680
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/104",
+      "text": "It's a ball?",
+      "speaker": "Speaker 4",
+      "startTimecode": 500680,
+      "endTimecode": 501280
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/105",
+      "text": "Is everything going to be okay?",
+      "speaker": "Speaker 9",
+      "startTimecode": 508000,
+      "endTimecode": 509160
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/106",
+      "text": "How do we get here?",
+      "speaker": "Speaker 3",
+      "startTimecode": 511440,
+      "endTimecode": 512320
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/107",
+      "text": "Mommy? Are you okay?",
+      "speaker": "Speaker 9",
+      "startTimecode": 512679,
+      "endTimecode": 513560
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/108",
+      "text": "Where are we?",
+      "speaker": "Speaker 3",
+      "startTimecode": 514360,
+      "endTimecode": 515640
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/109",
+      "text": "We're in a bomb shelter?",
+      "speaker": "Speaker 9",
+      "startTimecode": 515640,
+      "endTimecode": 516680
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/110",
+      "text": "Why are we in a bomb shelter?",
+      "speaker": "Speaker 3",
+      "startTimecode": 517480,
+      "endTimecode": 518720
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/111",
+      "text": "Because you're being bombed.",
+      "speaker": "Speaker 9",
+      "startTimecode": 519360,
+      "endTimecode": 520520
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/112",
+      "text": "I'm being bombed.",
+      "speaker": "Speaker 3",
+      "startTimecode": 521240,
+      "endTimecode": 522120
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/113",
+      "text": "Daddy's inside with us, but you can't see him, not yet.",
+      "speaker": "Speaker 9",
+      "startTimecode": 522360,
+      "endTimecode": 525319
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/114",
+      "text": "What the hell is going on?",
+      "speaker": "Speaker 3",
+      "startTimecode": 526120,
+      "endTimecode": 527200
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/115",
+      "text": "You don't remember? You started the war, your machine, the marinat.",
+      "speaker": "Speaker 9",
+      "startTimecode": 527880,
+      "endTimecode": 535840
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/116",
+      "text": "It's four am. I can't see the sun. I'm underground with my dog.",
+      "speaker": "Speaker 3",
+      "startTimecode": 536800,
+      "endTimecode": 539960
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/117",
+      "text": "You unleash something, and now everyone hates you even more than they used to. You fed the beast.",
+      "speaker": "Speaker 9",
+      "startTimecode": 540400,
+      "endTimecode": 548560
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/118",
+      "text": "I didn't feed the beast.",
+      "speaker": "Speaker 3",
+      "startTimecode": 549120,
+      "endTimecode": 550079
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/119",
+      "text": "He did. That's why we're here.",
+      "speaker": "Speaker 9",
+      "startTimecode": 550600,
+      "endTimecode": 552959
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/120",
+      "text": "Now.",
+      "speaker": "Speaker 2",
+      "startTimecode": 553000,
+      "endTimecode": 553240
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/121",
+      "text": "What did I feed it?",
+      "speaker": "Speaker 3",
+      "startTimecode": 554559,
+      "endTimecode": 556440
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/122",
+      "text": "Me?",
+      "speaker": "Speaker 1",
+      "startTimecode": 556520,
+      "endTimecode": 556600
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/123",
+      "text": "And me and me?",
+      "speaker": "Speaker 2",
+      "startTimecode": 557440,
+      "endTimecode": 559080
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/124",
+      "text": "Do you think you are immune to the consequences?",
+      "speaker": "Speaker 9",
+      "startTimecode": 559960,
+      "endTimecode": 561920
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/125",
+      "text": "Look at us?",
+      "speaker": "Speaker 7",
+      "startTimecode": 561960,
+      "endTimecode": 562520
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/126",
+      "text": "No, I won't look at us.",
+      "speaker": "Speaker 3",
+      "startTimecode": 563440,
+      "endTimecode": 566360
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/127",
+      "text": "Fuck. Fuck, that's right.",
+      "speaker": "Speaker 2",
+      "startTimecode": 569920,
+      "endTimecode": 574240
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/128",
+      "text": "What did it do to you?",
+      "speaker": "Speaker 3",
+      "startTimecode": 576040,
+      "endTimecode": 576960
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/129",
+      "text": "It made your victims whole.",
+      "speaker": "Speaker 4",
+      "startTimecode": 577400,
+      "endTimecode": 578680
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/130",
+      "text": "This isn't real.",
+      "speaker": "Speaker 3",
+      "startTimecode": 579800,
+      "endTimecode": 580520
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/131",
+      "text": "It's real.",
+      "speaker": "Speaker 2",
+      "startTimecode": 581480,
+      "endTimecode": 582120
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/132",
+      "text": "Sooner or later you'll all be here. You'll call it home.",
+      "speaker": "Speaker 9",
+      "startTimecode": 586240,
+      "endTimecode": 589160
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/133",
+      "text": "I don't have a daughter. I don't know who you are. You're not real.",
+      "speaker": "Speaker 3",
+      "startTimecode": 589559,
+      "endTimecode": 592720
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/134",
+      "text": "You are the mother, You're my mother.",
+      "speaker": "Speaker 9",
+      "startTimecode": 592920,
+      "endTimecode": 595000
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/135",
+      "text": "It's twelve or two am. Seven hours have passed in five minutes.",
+      "speaker": "Speaker 3",
+      "startTimecode": 595240,
+      "endTimecode": 598480
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/136",
+      "text": "Star of the bomb shelters like buddy.",
+      "speaker": "Speaker 2",
+      "startTimecode": 600040,
+      "endTimecode": 602040
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/137",
+      "text": "I dreaming. This is a nightmare. Alcon he wake up, city, Wake up? Where am I?",
+      "speaker": "Speaker 3",
+      "startTimecode": 602400,
+      "endTimecode": 621440
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/138",
+      "text": "Are you?",
+      "speaker": "Speaker 2",
+      "startTimecode": 622200,
+      "endTimecode": 622440
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/139",
+      "text": "Okay?",
+      "speaker": "Speaker 5",
+      "startTimecode": 622440,
+      "endTimecode": 622760
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/140",
+      "text": "What happened?",
+      "speaker": "Speaker 4",
+      "startTimecode": 623800,
+      "endTimecode": 624520
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/141",
+      "text": "You were fighting with Manifold for control of the dream and then you woke up. I didn't wake you up. Don't get mad at me. It's okay. You're okay.",
+      "speaker": "Speaker 5",
+      "startTimecode": 625600,
+      "endTimecode": 632840
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/142",
+      "text": "Manifold still alive?",
+      "speaker": "Speaker 3",
+      "startTimecode": 633440,
+      "endTimecode": 634520
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/143",
+      "text": "Yes, that's not okay.",
+      "speaker": "Speaker 2",
+      "startTimecode": 635040,
+      "endTimecode": 636520
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/144",
+      "text": "How long have I been asleep? Four hours felt like four minutes. I know.",
+      "speaker": "Speaker 3",
+      "startTimecode": 637679,
+      "endTimecode": 641720
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/145",
+      "text": "Excuse me, sir, we're in the middle of Morgan.",
+      "speaker": "Speaker 5",
+      "startTimecode": 643400,
+      "endTimecode": 645839
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/146",
+      "text": "It's okay. Give us a minute.",
+      "speaker": "Speaker 3",
+      "startTimecode": 645960,
+      "endTimecode": 647160
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/147",
+      "text": "Does your sister have a recording device in this room?",
+      "speaker": "Speaker 7",
+      "startTimecode": 653080,
+      "endTimecode": 656400
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/148",
+      "text": "No?",
+      "speaker": "Speaker 3",
+      "startTimecode": 656440,
+      "endTimecode": 656520
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/149",
+      "text": "What have you been doing with my money? I mean, besides making innocent people kill themselves?",
+      "speaker": "Speaker 7",
+      "startTimecode": 660360,
+      "endTimecode": 666280
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/150",
+      "text": "Mister Kingship. I'll explain all of this later, but right now I need to go back to sleep.",
+      "speaker": "Speaker 3",
+      "startTimecode": 666520,
+      "endTimecode": 670440
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/151",
+      "text": "I'm sure you do, just as I'm sure you have time for me and always will.",
+      "speaker": "Speaker 7",
+      "startTimecode": 670559,
+      "endTimecode": 677240
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/152",
+      "text": "I'm not sure you have always left.",
+      "speaker": "Speaker 3",
+      "startTimecode": 685480,
+      "endTimecode": 687400
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/153",
+      "text": "Don't let the cough fool you. I'm not going anywhere, miss Kraft, and if I did, I would haunt you. You will never be rid of me.",
+      "speaker": "Speaker 7",
+      "startTimecode": 689960,
+      "endTimecode": 701360
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/154",
+      "text": "What do you want?",
+      "speaker": "Speaker 3",
+      "startTimecode": 701440,
+      "endTimecode": 702120
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/155",
+      "text": "I want to know why we had to remove a body with his head half sliced off from the premises of a sleep center.",
+      "speaker": "Speaker 7",
+      "startTimecode": 703080,
+      "endTimecode": 709240
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/156",
+      "text": "I already told you about.",
+      "speaker": "Speaker 3",
+      "startTimecode": 709480,
+      "endTimecode": 710840
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/157",
+      "text": "Yes, yes, Manifold, that's what you were doing to night I hear you are killing him. How'd that go?",
+      "speaker": "Speaker 7",
+      "startTimecode": 711080,
+      "endTimecode": 717480
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/158",
+      "text": "It's still alive thanks to you, to this stupid conversation we're having.",
+      "speaker": "Speaker 3",
+      "startTimecode": 718040,
+      "endTimecode": 721640
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/159",
+      "text": "You're one of my more interesting investments. Seven years ago, you tell me you're going to cure Alzheimer's and make us both billionaires. Then you tell me you're going to cure sleep disorders. And then you tell me about a nightmare figure in the dream world being as real as you or me? And I thought, well, that is the end of that.",
+      "speaker": "Speaker 7",
+      "startTimecode": 724080,
+      "endTimecode": 755280
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/160",
+      "text": "You've seen that, haven't you?",
+      "speaker": "Speaker 3",
+      "startTimecode": 760240,
+      "endTimecode": 761720
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/161",
+      "text": "I have? You are everything I hope you be, Misscraft, and more. Me and you, we will kill this matter, fold this organ, and then we will both sleep again.",
+      "speaker": "Speaker 7",
+      "startTimecode": 764720,
+      "endTimecode": 784120
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/162",
+      "text": "If you believe it, then why did you?",
+      "speaker": "Speaker 3",
+      "startTimecode": 785440,
+      "endTimecode": 787319
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/163",
+      "text": "Because you're going about everything all wrong? Do you think you're the only person who has discovered this creature? No miscraft, next tech, next tack. They have their own theory and their evidence is compelling. What do you have for me?",
+      "speaker": "Speaker 7",
+      "startTimecode": 787320,
+      "endTimecode": 805000
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/164",
+      "text": "How are you gonna kill it?",
+      "speaker": "Speaker 7",
+      "startTimecode": 806200,
+      "endTimecode": 807240
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/165",
+      "text": "I can lose ad dream, I can take control of the dream space, and once I have that, I.",
+      "speaker": "Speaker 3",
+      "startTimecode": 808559,
+      "endTimecode": 812760
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/166",
+      "text": "See your plan. Misscraft? Tell me now?",
+      "speaker": "Speaker 7",
+      "startTimecode": 812840,
+      "endTimecode": 819520
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/167",
+      "text": "Is my voice being patched through the intercom?",
+      "speaker": "Speaker 2",
+      "startTimecode": 821640,
+      "endTimecode": 823400
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/168",
+      "text": "Yes? And it just came through in her dream.",
+      "speaker": "Speaker 5",
+      "startTimecode": 823480,
+      "endTimecode": 825200
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/169",
+      "text": "She's not tracking time anymore. She's lost. Is Harlan Kingship a real person?",
+      "speaker": "Speaker 4",
+      "startTimecode": 825440,
+      "endTimecode": 830400
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/170",
+      "text": "Yep?",
+      "speaker": "Speaker 9",
+      "startTimecode": 830720,
+      "endTimecode": 831000
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/171",
+      "text": "He was our first investor. He's the reason we have any of this?",
+      "speaker": "Speaker 5",
+      "startTimecode": 831320,
+      "endTimecode": 833880
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/172",
+      "text": "Is that his personality like in the dream.",
+      "speaker": "Speaker 6",
+      "startTimecode": 834360,
+      "endTimecode": 836760
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/173",
+      "text": "No, he's worse. He's the only person I've ever seen see to be afraid.",
+      "speaker": "Speaker 5",
+      "startTimecode": 837040,
+      "endTimecode": 840960
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/174",
+      "text": "Of fuck this, he says, it's me, kay. This thing is trying to fool you, and I hope you didn't fall for that bush leak bullshit. It's trying to figure out what your plan is, and that means it's scared of you. Don't tell him jack shit. Together, right now, we're going to kill this fucking thing.",
+      "speaker": "Speaker 8",
+      "startTimecode": 840640,
+      "endTimecode": 866000
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/175",
+      "text": "You're listening to. Dream Sequence written and created by Andrew Martin Robinson, directed by Dave Beasley and John Brooks. Executive producers are Molly Barton, John Brooks, Dave Beasley and Marcy Wiseman for realm Alex Williams, Matt Frederick and Trevor Young for iHeart Podcasts, Chris Dicky and Noah Feinberg for Blumhouse Television, starring Jesse Case and Alice Kremelberg, with performances by Shalinie Bethina Einer, Gunn, Nick Osborne, Winifred, Anne Kincannon, Tara Brown, Emily Barry, Linnelle Scott, Shannon McClung, Dave Huber, Hugo Armstrong, Cooper, Tomilson, Joel Haberley, Simaj Miller, Dean Simone, and Brian Finney. Additional voices by Patrick Higney, Fred Greenholg, John Brooks, Christina Teleska, and Kaylan West. Casting by Sunday Bowling. Kennedy CSA and Meg Mormon CSA. Producers for Realm are Fred Greenholge, Marcus Thorne, Magala and Rhoda Bayessa. Associate producer Michael Coulter, Production manager Devin Shepherd, Production coordinator Angela Yee. Dialogue editing by Corey Barton, sound design by roy O'sha, Dan Powell and Kaylan West.",
+      "speaker": "Speaker 1",
+      "startTimecode": 897120,
+      "endTimecode": 973280
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/176",
+      "text": "Final mixed by Kaylan West. Original score composed by Marcus Thorne Pagala. Songs for Josie by Kaylan West. Recorded at Real Voice Los Angeles and Citybox, New York City. This podcast was recorded under a SAG after collective bargaining agreement.",
+      "speaker": "Speaker 1",
+      "startTimecode": 973880,
+      "endTimecode": 988800
+    },
+    {
+      "id": "4636495a-78d7-4137-b690-53f53791a51a/transcript/paragraph/177",
+      "text": "Dream Sequence is a production of iHeart Podcasts, Blumhouse Television and Realm. Find more great podcasts by visiting the iHeartRadio app, Apple Podcasts, or wherever you listen to your favorite show.",
+      "speaker": "Speaker 1",
+      "startTimecode": 989480,
+      "endTimecode": 1000560
+    }
+  ]
 }
