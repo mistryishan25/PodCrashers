@@ -1,0 +1,38 @@
+{
+  "episodes": [
+    {
+      "episode_uuid": "lex-ep-007",
+      "podcast_uuid": "123e4567-e89b-12d3-a456-426614174000",
+      "title": "Episode Title",
+      "transcript": "Full transcript of the episode goes here.",
+      "guests": {
+        "Taylor": {
+          "uuid": "tay-1234",
+          "name": "Tay Tay",
+          "persona": {
+            "personality_traits": "General traits like curious, calm, opinionated, humble, idealistic",
+            "communication_style": "How they structure and deliver speech: verbose, direct, formal, story-driven",
+            "mannerisms": "Repeated quirks or stylistic habits: pauses often, says “like” a lot, asks rhetorical questions",
+            "emotional_tone": "Emotional undercurrent: warm, detached, passionate, cautious",
+            "intellectual_style": "How they process or argue ideas: systematic, philosophical, skeptical, intuitive",
+            "social_tendencies": "How they present in a social/interactive context: collaborative, competitive, empathetic, withdrawn",
+            "linguistic_patterns": "Syntax and vocabulary style: uses academic vocabulary, asks many questions, prefers metaphors",
+            "confidence_level": "Whether their tone suggests authority, tentativeness, or balance",
+            "example_quotes": "Pull quotes that illustrate the analysis (optional but powerful for UI display)"
+          }
+        }
+      },
+      "processing_status": {
+        "transcript": {
+          "status": "done",
+          "last_attempt": "2023-10-01T12:00:00Z",
+          "updated_at": "2023-10-01T12:00:00Z"
+        },
+        "persona_generation": {
+          "status": "not_started",
+          "last_attempt": null
+        }
+      }
+    }
+  ]
+}

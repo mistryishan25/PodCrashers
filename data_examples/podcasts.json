@@ -1,0 +1,48 @@
+{
+  "podcasts": [
+    {
+      "uuid": "123e4567-e89b-12d3-a456-426614174000",
+      "name": "Podcast Name",
+      "description": "Podcast Description",
+      "totalEpisodeCount": 10,
+      "genres": [
+        "Technology",
+        "Education"
+      ],
+      "isCompleted": false,
+      "hosts": {
+        "Lex": {
+          "uuid": "lex-1234",
+          "name": "Lex Fridman",
+          "persona": {
+            "personality_traits": "General traits like curious, calm, opinionated, humble, idealistic",
+            "communication_style": "How they structure and deliver speech: verbose, direct, formal, story-driven",
+            "mannerisms": "Repeated quirks or stylistic habits: pauses often, says “like” a lot, asks rhetorical questions",
+            "emotional_tone": "Emotional undercurrent: warm, detached, passionate, cautious",
+            "intellectual_style": "How they process or argue ideas: systematic, philosophical, skeptical, intuitive",
+            "social_tendencies": "How they present in a social/interactive context: collaborative, competitive, empathetic, withdrawn",
+            "linguistic_patterns": "Syntax and vocabulary style: uses academic vocabulary, asks many questions, prefers metaphors",
+            "confidence_level": "Whether their tone suggests authority, tentativeness, or balance",
+            "example_quotes": "Pull quotes that illustrate the analysis (optional but powerful for UI display)"
+          }
+        },
+        "John": {
+          "uuid": "john-5678",
+          "name": "John Doe",
+          "persona": {
+            "personality_traits": "General traits like curious, calm, opinionated, humble, idealistic",
+            "communication_style": "How they structure and deliver speech: verbose, direct, formal, story-driven",
+            "mannerisms": "Repeated quirks or stylistic habits: pauses often, says “like” a lot, asks rhetorical questions",
+            "emotional_tone": "Emotional undercurrent: warm, detached, passionate, cautious",
+            "intellectual_style": "How they process or argue ideas: systematic, philosophical, skeptical, intuitive",
+            "social_tendencies": "How they present in a social/interactive context: collaborative, competitive, empathetic, withdrawn",
+            "linguistic_patterns": "Syntax and vocabulary style: uses academic vocabulary, asks many questions, prefers metaphors",
+            "confidence_level": "Whether their tone suggests authority, tentativeness, or balance",
+            "example_quotes": "Pull quotes that illustrate the analysis (optional but powerful for UI display)"
+          }
+        }
+      }
+    }
+  ]
+  
+}
