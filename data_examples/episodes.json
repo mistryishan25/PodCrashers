@@ -1,10 +1,11 @@
 {
   "episodes": [
     {
-      "episode_uuid": "lex-ep-007",
-      "podcast_uuid": "123e4567-e89b-12d3-a456-426614174000",
+      "episode_uuid": "test-new-one",
+      "podcast_uuid": "123e4567",
       "title": "Episode Title",
       "transcript": "Full transcript of the episode goes here.",
+      "url": "https://example.com/episode.mp3",
       "guests": {
         "Taylor": {
           "uuid": "tay-1234",
