@@ -1,5 +1,7 @@
 from motor.motor_asyncio import AsyncIOMotorClient
 import json 
+from dotenv import load_dotenv
+import os
 
 with open("data_examples/episodes.json", "r") as f:
     data = json.load(f)
@@ -8,7 +10,8 @@ with open("data_examples/episodes.json", "r") as f:
      
 
 # Setup MongoDB client
-uri = "mongodb+srv://podcrashers:podcrashers@cluster0.apxa3a0.mongodb.net/podcrashers?retryWrites=true&w=majority"
+load_dotenv()
+uri = os.getenv("MONGO_URI")
 client = AsyncIOMotorClient(uri)
 database = client.get_database("podcrashers")
 podcasts = database.get_collection("podcasts")
